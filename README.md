@@ -27,13 +27,13 @@ This API supports e-commerce operations, such as product and category listing, p
 | name      | Admin          |
 | email     | admin@admin.com|
 | password  | password       |
-| phone     | +947187520     |
+| phone     | +9318437947     |
 | isAdmin   | true           |
 | street    | Main Street    |
 | apartment | Block C        |
 | zip       | 10870          |
-| city      | Colombo        |
-| country   | SriLanka       |
+| city      | New Delhi      |
+| country   | India          |
 
 ### * Login User
 
@@ -122,15 +122,15 @@ This API supports e-commerce operations, such as product and category listing, p
 
 `GET |  /api/v1/products/{id}` 
 
-###  * Get Prodcut Counts
+###  * Get Product Count
 
 `GET |  /api/v1/products/get/count` 
 
-###  * Get Featured Prodcut Counts
+###  * Get Featured Product Count
 
 `GET |  /api/v1/products/get/featured/{count}`
 
-### * Upload Galley Images
+### * Upload Gallery Images
 
 `POST |  /api/v1/products/gallery-images/{id}`
 | Key            | Value           |
@@ -213,4 +213,4 @@ This API supports e-commerce operations, such as product and category listing, p
 `DELETE |  /api/v1/orders/{id}` 
 
 ## Author
-[Ishan Kapoor]
+Ishan Kapoor
