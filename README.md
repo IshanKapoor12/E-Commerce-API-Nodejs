@@ -213,4 +213,4 @@ This API supports e-commerce operations, such as product and category listing, p
 `DELETE |  /api/v1/orders/{id}` 
 
 ## Author
-[Dinush Chathurya](https://dinushchathurya.github.io/)
+[Ishan Kapoor]
